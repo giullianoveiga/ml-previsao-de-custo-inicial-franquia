@@ -13,6 +13,12 @@ Esta aplicação utiliza regressão linear para prever o custo inicial de abertu
 
 Imagine que você é um consultor de negócios e está ajudando uma rede de franquias a expandir para novas cidades. A rede quer saber quanto deve investir inicialmente para abrir uma unidade, considerando diferentes valores anuais de franquia. Com esta ferramenta, você pode:
 
+## Exemplo de uso
+
+- O cliente deseja abrir uma franquia com valor anual de R$ 2.000,00.
+- Insira esse valor na sidebar e clique em "Processar Previsão".
+- O app mostrará a estimativa do custo inicial, gráficos e métricas do modelo.
+
 1. Carregar os dados históricos de franquias já abertas.
 2. Visualizar a relação entre o valor anual da franquia e o custo inicial.
 3. Inserir o valor anual planejado para uma nova unidade e obter uma previsão do custo inicial.
@@ -30,14 +36,13 @@ Imagine que você é um consultor de negócios e está ajudando uma rede de fran
    ```
 3. Siga as instruções na interface para carregar dados, visualizar gráficos e gerar previsões.
 
-## Exemplo de uso
-
-- O cliente deseja abrir uma franquia com valor anual de R$ 2.000,00.
-- Insira esse valor na sidebar e clique em "Processar Previsão".
-- O app mostrará a estimativa do custo inicial, gráficos e métricas do modelo.
-
 ---
 
-Desenvolvido por Giulliano Veiga - Cientista de Dados
-Instagram: @giullianoveiga
-Whatsapp: +5585981708027
+## Desenvolvedor
+
+- **Giulliano Veiga**
+- Cientista de Dados
+- WhatsApp: [+55 85 98170-8027](https://wa.me/5585981708027)
+- Instagram: [@giullianoveiga](https://instagram.com/giullianoveiga)
+- GitHub: [giullianoveiga](https://github.com/giullianoveiga)
+- LinkedIn: [Giulliano Veiga](https://www.linkedin.com/in/giulliano-veiga/)
