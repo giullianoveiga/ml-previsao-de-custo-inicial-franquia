@@ -38,4 +38,11 @@ Imagine que você é um consultor de negócios e está ajudando uma rede de fran
 
 ---
 
-Desenvolvido por Giulliano Veiga - Cientista de Dados - Instagram: @giullianoveiga - Whatsapp: +5585981708027
+## Desenvolvedor
+
+- **Giulliano Veiga**
+- Cientista de Dados
+- WhatsApp: [+55 85 98170-8027](https://wa.me/5585981708027)
+- Instagram: [@giullianoveiga](https://instagram.com/giullianoveiga)
+- GitHub: [giullianoveiga](https://github.com/giullianoveiga)
+- LinkedIn: [Giulliano Veiga](https://www.linkedin.com/in/giulliano-veiga/)
