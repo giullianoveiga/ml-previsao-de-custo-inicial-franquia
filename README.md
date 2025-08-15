@@ -45,4 +45,8 @@ Imagine que você é um consultor de negócios e está ajudando uma rede de fran
 - WhatsApp: [+55 85 98170-8027](https://wa.me/5585981708027)
 - Instagram: [@giullianoveiga](https://instagram.com/giullianoveiga)
 - GitHub: [giullianoveiga](https://github.com/giullianoveiga)
+<<<<<<< HEAD
 - LinkedIn: [Giulliano Veiga](https://www.linkedin.com/in/giulliano-veiga/)
+=======
+- LinkedIn: [Giulliano Veiga](https://www.linkedin.com/in/giulliano-veiga/)
+>>>>>>> 2550bd9897ad7ac006df48091f65734c8d7bf549
